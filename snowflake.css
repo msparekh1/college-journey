@@ -1,0 +1,29 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  let: snowflake
+}
+p {
+  color: olive;
+}
+
+body {
+  background-color:skyblue;
+    fill(255, 255, 255)
+}
+
+h1  {
+padding-top: 50px;
+  		padding-right: 30px;
+  		padding-bottom: 50px;
+  		padding-left: 80px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
