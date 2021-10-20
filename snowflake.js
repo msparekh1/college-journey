@@ -5,7 +5,7 @@ function setup() {
   createCanvas(windowWidth, windowHeight);
  fill(240);
   noStroke();
-   createA (href='https://preview.p5js.org/msparekh/present/Y94HEm5b-'
+   createA (href='graduateduck'
 ,'Next');
 }
 
