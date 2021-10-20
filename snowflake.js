@@ -5,7 +5,7 @@ function setup() {
   createCanvas(windowWidth, windowHeight);
  fill(240);
   noStroke();
-   createA (href='graduateduck'
+   createA (href='graduateduck.html'
 ,'Next');
 }
 
