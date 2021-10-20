@@ -6,7 +6,7 @@ function setup() {
   background(255);
   colorPicker = createColorPicker("black");
   colorPicker.position(370, height + 30);
-  createA (href='https://preview.p5js.org/msparekh/present/gZ490zKcB'
+  createA (href='snowflake.html'
 ,'Next');
 }
 
